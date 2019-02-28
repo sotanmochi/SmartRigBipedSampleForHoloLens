@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_ApplicationAssets/SampleForHoloLens.unity
+    path: Assets/_ApplicationAssets/Scenes/SampleForHoloLens.unity
     guid: 14cd76c6d2ce1f74bbdb67085c731d6d
   m_configObjects: {}
